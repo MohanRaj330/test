@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203492184408",
+    "firebase_url": "https://kalamnk-da922.firebaseio.com",
+    "project_id": "kalamnk-da922",
+    "storage_bucket": "kalamnk-da922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203492184408:android:66aba5dfb944dcd0",
+        "android_client_info": {
+          "package_name": "com.nammakarur.kaalam.kalamnk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203492184408-7j6csia2ilo7evn5jj806db726dibabo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nammakarur.kaalam.kalamnk",
+            "certificate_hash": "8ad8240b1d6672c3b0de582baba8c4cc5fa7861b"
+          }
+        },
+        {
+          "client_id": "203492184408-k7fau92c44kii3hdtad1a93dv5tv2bgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5X6zE28EKXK6pfXvt0rXT1lhTBenKVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203492184408-k7fau92c44kii3hdtad1a93dv5tv2bgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
